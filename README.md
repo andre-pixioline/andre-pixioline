@@ -4,7 +4,7 @@
 
 <p align="left"> 
   Sou estudante das linguagens de programação de <strong>Front-end</strong> pelo curso DevQuest.<br>
-  Atualmente estou fazendo projetos individuais e desafios do frontendmentor para aprimorar meus códigos.
+  Atualmente estou fazendo projetos individuais e desafios de sites externos para aprimorar meus códigos.
 </p>
 
 💼 Ferramentas: <br>
