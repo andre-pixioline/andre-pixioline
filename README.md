@@ -40,4 +40,4 @@
 
 ## ⭐ GitHub Stats
 
-[![andre-pixioline](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-pixioline&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-pixioline&layout=donut-vertical)](https://github.com/andre-pixioline)
