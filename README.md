@@ -40,4 +40,4 @@
 
 ## ⭐ GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-pixioline&layout=donut-vertical)](https://github.com/andre-pixioline)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-pixioline&layout=donut&theme=dark)](https://github.com/andre-pixioline)
