@@ -1,41 +1,77 @@
-## 💾 Olá, meu nome é André!
+<h1 align="center">Olá, eu sou o André 👋</h1>
+<h3 align="center">Desenvolvedor Front-end em formação · Estudante do DevQuest</h3>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
-<p align="left"> 
-  Sou estudante das linguagens de programação de <strong>Front-end</strong> pelo curso DevQuest.<br>
-  Atualmente estou fazendo projetos individuais e desafios de sites externos para aprimorar meus códigos.
+<p align="center">
+  <a href="https://www.linkedin.com/in/andre-pixioline">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:pixiolinedomingues@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.instagram.com/andrepixioline">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
-
-💼 Ferramentas: <br>
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-## 🚀 Minhas Skills
-
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<!--<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>-->
-<!--<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>-->
-<!--<code><img height="32"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>-->
 
 ---
 
-<p align="left">
-  💌 Meus contatos: ⤵️
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" width="340" align="right"/>
+
+### 💾 Sobre mim
+
+- 🎓 Estudo desenvolvimento **Front-end** no curso **DevQuest**
+- 🛠️ Crio projetos próprios e resolvo desafios de sites como Frontend Mentor para praticar
+- 🌱 No momento estou aprendendo: **JavaScript** mais a fundo e **React**
+- 🎯 Objetivo: conseguir minha primeira oportunidade como dev Front-end
+- 💬 Pode me chamar para trocar ideia sobre front-end, layouts e projetos
+
+<br clear="right"/>
+
+---
+
+### 🚀 Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS e JavaScript"/>
 </p>
 
-<p align="left">
-  <a href="mailto:pixiolinedomingues@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/andre-pixioline" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/andrepixioline" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+**Estudando agora:**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs&theme=dark" alt="React, TypeScript e Node.js"/>
 </p>
 
-## ⭐ GitHub Stats
+**Ferramentas:**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-pixioline&layout=donut&theme=dark)](https://github.com/andre-pixioline)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Git, GitHub, VS Code e Figma"/>
+</p>
+
+---
+
+### 📂 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [Nome do projeto 1](https://github.com/andre-pixioline/REPOSITORIO) | Uma linha sobre o que o projeto faz | HTML · CSS · JS |
+| [Nome do projeto 2](https://github.com/andre-pixioline/REPOSITORIO) | Uma linha sobre o que o projeto faz | HTML · CSS · JS |
+| [Nome do projeto 3](https://github.com/andre-pixioline/REPOSITORIO) | Uma linha sobre o que o projeto faz | HTML · CSS · JS |
+
+---
+
+### ⭐ GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=andre-pixioline&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-pixioline&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=andre-pixioline&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições"/>
+</p>
+
+---
+
+<p align="center">
+  <i>"Código bom é aquele que outra pessoa consegue entender."</i> ✨
+</p>
