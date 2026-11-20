@@ -49,16 +49,6 @@
 
 ---
 
-### 📂 Projetos em destaque
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [Nome do projeto 1](https://github.com/andre-pixioline/REPOSITORIO) | Uma linha sobre o que o projeto faz | HTML · CSS · JS |
-| [Nome do projeto 2](https://github.com/andre-pixioline/REPOSITORIO) | Uma linha sobre o que o projeto faz | HTML · CSS · JS |
-| [Nome do projeto 3](https://github.com/andre-pixioline/REPOSITORIO) | Uma linha sobre o que o projeto faz | HTML · CSS · JS |
-
----
-
 ### ⭐ GitHub Stats
 
 <p align="center">
@@ -71,7 +61,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <i>"Código bom é aquele que outra pessoa consegue entender."</i> ✨
-</p>
